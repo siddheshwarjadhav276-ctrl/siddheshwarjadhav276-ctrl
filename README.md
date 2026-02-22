@@ -1,4 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=Siddheshwar%20Jadhav&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=00ffcc&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node%20%7C%20DSA&descAlignY=55&descSize=22" width="100%" />
+
+
 # 💫 About Me
+
 Full-Stack Developer with a strong foundation in building responsive and scalable
 web applications. Experienced in React, Node.js, and modern backend technologies.
 Passionate about clean code, consistency, and continuous improvement.
@@ -45,10 +49,8 @@ Passionate about clean code, consistency, and continuous improvement.
 ---
 
 ## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddheshwarjadhav276-ctrl&theme=neon&hide_border=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=siddheshwarjadhav276-ctrl&theme=neon&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshwarjadhav276-ctrl&theme=neon&layout=compact)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=siddheshwarjadhav276-ctrl&icon=0&color=0)](https://visitcount.itsvg.in)
