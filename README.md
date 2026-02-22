@@ -1,4 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=Siddheshwar%20Jadhav&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=00ffcc&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node%20%7C%20DSA&descAlignY=55&descSize=22" width="100%" />
+<div align="center" style="position: relative; width: 100%;">
+  
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Siddheshwar%20Jadhav&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" 
+    width="100%"
+  />
+
+</div>
 
 
 # 💫 About Me
