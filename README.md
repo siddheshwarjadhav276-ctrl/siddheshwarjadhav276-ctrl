@@ -53,10 +53,6 @@ Passionate about clean code, consistency, and continuous improvement.
 - 🔐 **Auth System** – JWT, MongoDB  
 - 📊 **Admin Dashboard** – React + Bootstrap  
 
----
-
-## 📊 GitHub Activity
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=siddheshwarjadhav276-ctrl&theme=neon&hide_border=false)
 
 ---
 
